@@ -1,2 +1,4 @@
 # hqyj031
-text
+make arch=arm modname=mypwm
+make install
+make clean
